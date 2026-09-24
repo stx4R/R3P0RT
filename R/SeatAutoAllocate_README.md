@@ -1,5 +1,7 @@
 # SeatAutoAllocate
 
+<p align="center"><img src="assets/SeatAutoAllocate/cover.png" alt="SeatAutoAllocate 대표 이미지" width="100%"></p>
+
 > 학생마다 5지망까지 원하는 자리를 받고, Top Trading Cycles(TTC) 알고리즘으로 자리를 맞교환해 배정하는 교실 자리 배치 프로그램
 
 ---
