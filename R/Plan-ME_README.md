@@ -1,5 +1,7 @@
 # Plan-ME
 
+<p align="center"><img src="assets/Plan-ME/cover.png" alt="Plan-ME 대표 이미지" width="100%"></p>
+
 > 학교 이메일로 들어가 마감 기한이 있는 할 일을 관리하고 해시 체인으로 메시지 위변조 개념을 체험하는 학생용 일정 앱 「WTD」
 
 ---
