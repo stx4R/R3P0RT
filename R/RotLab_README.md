@@ -1,5 +1,7 @@
 # RotLab
 
+<p align="center"><img src="assets/RotLab/cover.png" alt="RotLab 대표 이미지" width="100%"></p>
+
 > 오일러각·회전행렬·쿼터니언을 라이브러리 없이 직접 구현하고 짐벌락과 보간 방식의 차이를 3D 화면과 숫자로 동시에 보여 주는 회전 변환 실험실
 
 ---
