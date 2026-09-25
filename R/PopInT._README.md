@@ -1,5 +1,7 @@
 # PopInT.
 
+<p align="center"><img src="assets/PopInT/cover.png" alt="PopInT. 대표 이미지" width="100%"></p>
+
 > 동물 무리의 순위제(pecking order)를 방향 그래프로 옮기고, 순위 알고리즘 네 가지를 한 화면에서 비교해 보는 교육용 분석 도구
 
 ---
