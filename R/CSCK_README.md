@@ -1,5 +1,7 @@
 # CSCK
 
+<p align="center"><img src="assets/CSCK/cover.png" alt="CSCK 대표 이미지" width="100%"></p>
+
 > 제3회 오량모의국회 행사장 입구의 공용 태블릿에서, 처음 보는 사람도 설명 없이 3초 안에 출석을 마치도록 설계한 출석체크 키오스크
 
 ---
