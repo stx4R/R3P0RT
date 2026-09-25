@@ -1,5 +1,7 @@
 # BBPre.
 
+<p align="center"><img src="assets/BBPre/cover.png" alt="BBPre. 대표 이미지" width="100%"></p>
+
 > KBO·MLB 경기 데이터로 "어떤 경기에 관중이 몰리는가"를 예측한 머신러닝 탐구. 2026 전반기를 완전히 떼어 둔 시간적 홀드아웃으로 검증했고 매진이 일상이 된 시즌에서 예측 문제의 성격이 바뀌는 지점(절단)을 찾았다
 
 ---
