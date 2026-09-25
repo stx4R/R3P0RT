@@ -131,7 +131,7 @@
 |---|---|
 | GitHub 저장소 | [stx4R/Jari](https://github.com/stx4R/Jari) (비공개) |
 | 배포 URL | https://stx4r.github.io/Jari/ |
-| 실행 파일 | 저장소의 `SeatAutoAllocate.exe` (Windows) |
+| 실행 파일 | 저장소의 `Jari.exe` (Windows) |
 | 모의실험 | [`seat_sim.js`](assets/Jari/seat_sim.js), [`seat_sim2.js`](assets/Jari/seat_sim2.js) |
 
 ### 알고리즘 흐름
