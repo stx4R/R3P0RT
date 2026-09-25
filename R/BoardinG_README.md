@@ -1,5 +1,7 @@
 # BoardinG
 
+<p align="center"><img src="assets/BoardinG/cover.png" alt="BoardinG 대표 이미지" width="100%"></p>
+
 > "비행기와 기차에 사람을 가장 빨리 태우는 순서는 무엇인가"를 통로 물리·짐 적재·좌석 셔플까지 모델링한 에이전트 기반 시뮬레이터로 실험한 프로젝트
 
 ---
