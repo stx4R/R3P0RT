@@ -1,5 +1,7 @@
 # ResAll.
 
+<p align="center"><img src="assets/ResAll/cover.png" alt="ResAll. 대표 이미지" width="100%"></p>
+
 > "한정된 복지 예산을 누구에게 줄 것인가"를 코스타리카 가구 빈곤 데이터의 분류 문제로 만든 Orange 탐구. 모델 세 개의 성능과 함께, 추가로 설치한 Fairness 애드온으로 가구주 성별·지역에 대한 공정성을 감사했다
 
 ---
