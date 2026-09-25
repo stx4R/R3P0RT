@@ -1,5 +1,7 @@
 # MoGuk
 
+<p align="center"><img src="assets/MoGuk/cover.png" alt="MoGuk 대표 이미지" width="100%"></p>
+
 > 의원 130명이 참여한 제3회 오량모의국회의 가입·전자투표·전광판·운영 도구를 하나로 묶은 공식 웹 서비스
 
 ---
