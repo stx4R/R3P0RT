@@ -1,5 +1,7 @@
 # L-INK Interview
 
+<p align="center"><img src="assets/L-INK-Interview/cover.png" alt="L-INK-Interview 대표 이미지" width="100%"></p>
+
 > 동아리 신입 부원 면접을 여러 면접관이 한 화면에서 진행하고, 점수·질문 순서·합격 투표를 실시간으로 맞추는 면접 평가 웹앱 「L-INK Eval」
 
 ---
