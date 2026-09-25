@@ -1,5 +1,7 @@
 # SunDO
 
+<p align="center"><img src="assets/SunDO/cover.png" alt="SunDO 대표 이미지" width="100%"></p>
+
 > 학생회 자율생활부의 선도 기록을 종이에서 옮긴 학교 전용 PWA. 서버 없이 Firestore 보안 규칙만으로 권한을 강제하고, 그 규칙이 실제로 거부하는지를 변형 역검증으로 증명했다
 
 ---
