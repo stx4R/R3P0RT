@@ -1,5 +1,7 @@
 # Fly
 
+<p align="center"><img src="assets/Fly/cover.png" alt="Fly 대표 이미지" width="100%"></p>
+
 > 초파리 뇌 커넥톰(hemibrain)의 배선을 제약으로 둔 네트워크에 테트리스 대전을 가르치고 그 결과를 웹에 공개해 사람과 직접 겨뤄 볼 수 있게 한 연구형 프로젝트
 
 ---
