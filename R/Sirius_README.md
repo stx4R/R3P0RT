@@ -1,5 +1,7 @@
 # Sirius
 
+<p align="center"><img src="assets/Sirius/cover.png" alt="Sirius 대표 이미지" width="100%"></p>
+
 > 확률과 통계를 설명문이 아니라 판정 규칙에 심은 도트 그래픽 보드게임. 밸런스는 시드 고정 몬테카를로로 검증했고 부스 노트북용 단일 exe로 배포한다
 
 ---
