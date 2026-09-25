@@ -1,5 +1,5 @@
-// 실행: node seat_sim.js  (SeatAutoAllocate 웹 버전 runAlgorithm의 TTC를 그대로 옮긴 모의실험)
-// Port of SeatAutoAllocate web TTC (index.html runAlgorithm) for simulation
+// 실행: node seat_sim.js  (Jari 웹 버전 runAlgorithm의 TTC를 그대로 옮긴 모의실험)
+// Port of Jari web TTC (index.html runAlgorithm) for simulation
 function ttc(students, prefs, seats) { // seats: endowment list aligned with students
   const currOwners={}, seatToOwner={};
   students.forEach((s,i)=>{currOwners[s]=seats[i]; seatToOwner[seats[i]]=s;});
