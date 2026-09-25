@@ -1,5 +1,7 @@
 # AGDecision.
 
+<p align="center"><img src="assets/AGDecision/cover.png" alt="AGDecision. 대표 이미지" width="100%"></p>
+
 > "알고리즘 기반 의사결정은 정말 객관적인가"를 질문지(15명)와 면접(6명)으로 검증한 사회·문화 탐구. 알고리즘이 무엇을 차별하는지보다, 사람들이 그 판정을 왜 의심 없이 받아들이는지에 초점을 맞췄다
 
 ---
