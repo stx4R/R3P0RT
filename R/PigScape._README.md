@@ -1,5 +1,7 @@
 # PigScape.
 
+<p align="center"><img src="assets/PigScape/cover.png" alt="PigScape. 대표 이미지" width="100%"></p>
+
 > 기초대사량 계산, 다이어트 상식 퀴즈, 개인 기록 화면을 묶은 다이어트 도우미 웹 "돼탈출"을 팀 프로젝트로 기획하고 기술 파트에서 세 번에 걸쳐 다시 만든 프로젝트
 
 ---
