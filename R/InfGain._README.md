@@ -1,5 +1,7 @@
 # InfGain.
 
+<p align="center"><img src="assets/InfGain/cover.png" alt="InfGain. 대표 이미지" width="100%"></p>
+
 > 고등학교 로그함수가 결정 트리의 "가장 좋은 질문"을 어떻게 고르는지, Play Tennis 14개 샘플로 엔트로피와 정보 이득을 전부 손으로 계산해 확인한 대수학 탐구. 결과는 엔트로피를 색으로 칠한 입체 트리 모형으로 만들었다
 
 ---
