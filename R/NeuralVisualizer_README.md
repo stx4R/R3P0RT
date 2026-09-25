@@ -1,5 +1,7 @@
 # NeuralVisualizer
 
+<p align="center"><img src="assets/NeuralVisualizer/cover.png" alt="NeuralVisualizer 대표 이미지" width="100%"></p>
+
 > 외부 라이브러리 없이 행렬 연산부터 역전파, 3D 투영까지 직접 구현해 브라우저에서 다층 퍼셉트론이 학습하는 모습을 네 가지 화면으로 보여 주는 교육용 도구 「NeuralViz」
 
 ---
